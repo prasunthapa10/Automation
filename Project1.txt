@@ -1,2 +1,4 @@
 The Main pillars of development are:
 Education
+Roads
+Buildings
