@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Life is beautiful. 
 
 
@@ -27,3 +28,6 @@ df
 f
 f
 >>>>>>> 7e20188eed2d1555da5f9758fc4e95f6176f2e36
+=======
+The Main pillars of development are:
+>>>>>>> 3119d396161da3a6c182983b457be75690455717
